@@ -1,4 +1,4 @@
-# Quiz Video Generator with OpenAI and MoviePy
+# Automatic Tiktok Quiz Video Generator with OpenAI and MoviePy
 
 This Python script leverages the power of OpenAI and MoviePy to create engaging quiz videos. It randomly selects questions and answers, generates audio using OpenAI's TTS, and assembles a dynamic video with countdowns, questions, answers, and a unique visual touch. The resulting quiz video is not only visually appealing but also includes an audio component for an immersive experience.
 Something like this: https://www.tiktok.com/@emilyvilaga
